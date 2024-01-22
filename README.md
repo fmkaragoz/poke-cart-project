@@ -24,3 +24,5 @@
 # Contribution
 
 Contributions are welcome! If you'd like to enhance the Pokedex Guide or fix any issues, feel free to submit a pull request.
+
+
